@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-HW 2 - Portfolio assignment using bootstrap.
+# Basic-Portfolio
+HW 1 - Basic Portfolio (Recommended HW)

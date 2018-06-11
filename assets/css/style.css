@@ -1,0 +1,19 @@
+body {
+    background-color: #e1c8b2;
+}
+#myName {
+    background-color: #7b9ea4;
+    color: #fff;
+}
+.container {
+    /* width: 960px; */
+}
+h1 {
+    color: #7b9ea4;
+}
+#mePhoto {
+    max-width: 300px;
+}
+.portPhoto {
+    max-width:425px;
+}
