@@ -1,6 +1,9 @@
 body {
     background-color: #e1c8b2;
 }
+td {
+    padding: 0 2px 0 1em;
+}
 #myName {
     background-color: #7b9ea4;
     color: #fff;
@@ -12,8 +15,29 @@ h1 {
     color: #995b28;
 }
 #mePhoto {
-    max-width: 300px;
+    max-width: 200px;
 }
-.portPhoto {
+.port-photo {
     max-width:425px;
+    margin: 5px;
+}
+
+.project-box {
+    border: 1px solid #aaa;
+    border-radius: .5em;
+}
+.project-image-box {
+    padding: 0;
+}
+.project-image {
+    width: 100%;
+    border-top-left-radius: .5em;
+    border-bottom-left-radius: .5em;
+}
+.deploy-link {
+    padding-left: .5em;
+    padding-right: .5em;
+}
+#my-contact-info {
+    text-decoration: underline;
 }
