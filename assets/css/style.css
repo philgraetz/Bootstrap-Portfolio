@@ -41,3 +41,16 @@ h1 {
 #my-contact-info {
     text-decoration: underline;
 }
+.link-button-div {
+    display: inline-block;
+    /* border: solid 1px #888; */
+    padding: 2px;
+    margin-bottom: 1em;
+}
+.link-button-div:hover {
+    box-shadow: 2px 2px 4px #ccc;
+}
+.link-image {
+    /* width: 1.5em; */
+    height: 1.5em;
+}
